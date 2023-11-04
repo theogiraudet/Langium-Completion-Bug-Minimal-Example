@@ -1,0 +1,12 @@
+{
+    "projectName": "MinExample",
+    "languages": [{
+        "id": "min-example",
+        "grammar": "src/language/min-example.langium",
+        "fileExtensions": [".hello"],
+        "textMate": {
+            "out": "syntaxes/min-example.tmLanguage.json"
+        }
+    }],
+    "out": "src/language/generated"
+}
